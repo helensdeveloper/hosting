@@ -7,10 +7,11 @@
 </head>
 <body>
 	<div class="login">
+	<h2></h2>
 		<h1>Login</h1>
 		<form method="post" autocomplete="off" action="<?=base_url('adminlogin/login')?>">
 			<input type="text" name="u" placeholder="Username" required="required" />
-			<input type="password" name="p" placeholder="Password" required="required" />
+		<input type="password" name="p" placeholder="Password" required="required" />
 			<button type="submit" class="btn btn-primary btn-block btn-large">Let me in.</button>
 			<?php echo $this->session->flashdata('msg'); ?>
 		</form>
