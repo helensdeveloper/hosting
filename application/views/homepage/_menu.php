@@ -1,6 +1,6 @@
 <div class="classynav">
 	<ul id="nav">
-		<li class="active"><a href="./index.html">Home</a></li>
+		<li class="active"><a href="<?=base_url('')?>">Home</a></li>
 		<li><a href="./hosting.html">Hosting</a></li>
 		<li><a href="#">Pages</a>
 			<ul class="dropdown">
