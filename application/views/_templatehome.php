@@ -20,6 +20,16 @@
     <script src="<?=base_url('themes/js/hami.bundle.js')?>"></script>
     <!-- Active -->
     <script src="<?=base_url('themes/js/default-assets/active.js')?>"></script>
-    <!-- <script src="//code.jivosite.com/widget/Pdb6VzgKia" async></script> -->
+    <script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/5fdc7c66df060f156a8e4726/1epqkbsu8';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
 </body>
 </html>
