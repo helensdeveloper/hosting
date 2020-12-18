@@ -20,6 +20,6 @@
     <script src="<?=base_url('themes/js/hami.bundle.js')?>"></script>
     <!-- Active -->
     <script src="<?=base_url('themes/js/default-assets/active.js')?>"></script>
-    <script src="//code.jivosite.com/widget/Pdb6VzgKia" async></script>
+    <!-- <script src="//code.jivosite.com/widget/Pdb6VzgKia" async></script> -->
 </body>
 </html>
