@@ -224,13 +224,12 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid">
+	<!-- <div class="container-fluid">
 		<div class="row">
 			<div class="col-12">
 				<div class="testimonial-slide owl-carousel">
 					<div class="single-testimonial-area">
 						<div class="testimonial-content">
-							<!-- Ratings & Quote -->
 							<div class="ratings-icon d-flex align-items-center justify-content-between">
 								<div class="rating">
 									<i class="icon_star" aria-hidden="true"></i>
@@ -245,7 +244,6 @@
 							</div>
 							<h5>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam beatae quaerat delectus saepe hic rem molestias quis incidunt consequuntur magni modi ea necessitatibus, excepturi fugit soluta, cupiditate accusantium! Veniam, illo?</h5>
 						</div>
-						<!-- Testimonial -->
 						<div class="testimonial-thumbnail-title d-flex align-items-center">
 							<div class="testimonial-thumbnail">
 								<img src="img/bg-img/11.jpg" alt="">
@@ -259,7 +257,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </section>
 <section class="hami-support-area bg-gray">
 	<div class="container">
