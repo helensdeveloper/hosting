@@ -191,7 +191,7 @@
 						<h2>250.000</h2>
 						<p>/per month</p>
 					</div>
-					<a href="#" class="btn hami-btn w-100 mb-30">Get Started</a>
+					<a href="<?=base_url('reseller')?>" class="btn hami-btn w-100 mb-30">Get Started</a>
 				</div>
 			</div>
 			<div class="col-12 col-md-6 col-lg-4">
